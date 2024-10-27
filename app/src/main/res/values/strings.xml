@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sampleService</string>
+    <string name="english">English\n</string>
+    <string name="vietnam">VietNam</string>
+</resources>
